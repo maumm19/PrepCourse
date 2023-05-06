@@ -1,2 +1,1 @@
-# PrepCourse
-Este es un repositorio de prueba del M2
+Este es un proyecto de prueba de como crear un repositorio y clonanrlo desde Github a mi computadora
